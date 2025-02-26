@@ -1,0 +1,30 @@
+/* Header 1*/
+h1{
+    display: flex;
+    margin:0%;
+    background-color: azure;
+}
+.logo{
+    height: 50px;
+    left:0;
+}
+img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.Search{
+    padding-inline: 50px;
+}
+.links{
+    position: absolute;
+    right:0;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: rgba(37, 36, 36, 0.562);
+    text-decoration: underline;
+}
+/* Header 2 */
