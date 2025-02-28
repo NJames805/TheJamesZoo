@@ -28,3 +28,16 @@ a:hover{
     text-decoration: underline;
 }
 /* Header 2 */
+.title{
+    font-size: xx-large;
+    justify-content: center;
+    margin-bottom: 20px; /* Adds spacing between text and video */
+    text-align: center;
+}
+.title video{
+    display: block; /* Ensures the video appears on a new line */
+    margin: 0 auto; /* Centers the video horizontally */
+    max-width: 100%; /* Ensures the video scales properly */
+    height: 400px;
+    width: 600px;
+}
